@@ -10,7 +10,8 @@
   
 }
 p {
-	font-family: oswald;
+	font-family: "specialElite";
+	color:white 
 }
 
 header {
@@ -21,33 +22,39 @@ header {
 }
 
 body {
-	font-family: "oswald";
+	font-family: "oswald"; 
 	background-color: #00284d;
 }
 
 h1 {
+	font-size: 45px;
+	text-align: center;
 	font-family: "OleoScript"
 }
 
 
 h2 {
-	font-family: "OleoScript"
+	font-size: 35px;
+	font-family: "OleoScript";
+	color: #a2c3f0;
 }
 
 h4 {
-	font-family: "specialElite"
+	font-family: "specialElite";
+	color: #a2c3f0;
 }
 
-h5 {
-	font-family: "specialElite"
+h3 {
+	font-size: 30px;
+	font-family: "oswald";
+	color: #a2c3f0 ;
 }
-
 
 
 
 .box {
   border-radius: 5px;
-  border: 2px white solid;
+  border: 2px tranparent;
 }
 
 .navbar {
