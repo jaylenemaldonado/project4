@@ -9,10 +9,6 @@
   grid-column-gap: 4%;
   
 }
-p {
-	font-family: "SpecialElite";
-	color:white 
-}
 
 header {
 	color: white;
@@ -50,7 +46,10 @@ h3 {
 	color: #a2c3f0 ;
 }
 
-
+p {
+	font-family: "SpecialElite";
+	color:white ;
+}
 
 .box {
   border-radius: 5px;
