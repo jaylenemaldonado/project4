@@ -36,7 +36,7 @@ h2 {
 }
 
 h4 {
-	font-family: "SpecialElite";
+	font-family: "Special Elite";
 	color: #a2c3f0;
 }
 
@@ -47,7 +47,7 @@ h3 {
 }
 
 p {
-	font-family: "SpecialElite";
+	font-family: "Special Elite";
 	color: white ;
 }
 
@@ -145,6 +145,6 @@ ul {
 	src: url(OleoScript-Regular.ttf);
 	}
 @font-face {
-	font-family: "specialElite";
+	font-family: "Special Elite";
 	src: url(specialElite-Regular.ttf);
 	}
